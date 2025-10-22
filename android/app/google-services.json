@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289824701407",
+    "project_id": "call-link-2a9c0",
+    "storage_bucket": "call-link-2a9c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289824701407:android:9ff93e3dd926b3bfd7626a",
+        "android_client_info": {
+          "package_name": "com.example.call_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2fu5rVLh4pc8AgPb0dUjdIS3yI3UzaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
